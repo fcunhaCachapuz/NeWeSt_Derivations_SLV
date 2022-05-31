@@ -24,7 +24,7 @@ def drop_columns(
     Returns
     -------
     :return:  Dataframe with columns dropped.
-    :rtype: pd.DataFrame.
+    :rtype: pd.DataFrame
 
     """
 
@@ -55,7 +55,7 @@ def replace_column_value(
     Returns
     -------
     :return: Dataframe with columns values replaced.
-    :rtype: pd.DataFrame.
+    :rtype: pd.DataFrame
 
     """
 
@@ -85,7 +85,7 @@ def normalization(
     Returns
     -------
     :return:  Dataframe with columns normalized.
-    :rtype: pd.DataFrame.
+    :rtype: pd.DataFrame
 
     """
 
@@ -114,7 +114,7 @@ def standardization(
     Returns
     -------
     :return: Tuple with scaler model and training data stardardized.
-    :rtype: Tuple.
+    :rtype: Tuple
 
     """
 
@@ -146,7 +146,7 @@ def one_hot_encoding_categorical(
     Returns
     -------
     :return: Dataframe with categorical features encoded.
-    :rtype: pd.DataFrame.
+    :rtype: pd.DataFrame
 
     """
 
@@ -202,7 +202,7 @@ def rolling_window_mean(
     Returns
     -------
     :return: Dataframe with average column calculate over the rolling window.
-    :rtype: pd.DataFrame.
+    :rtype: pd.DataFrame
 
     """
 
@@ -248,7 +248,7 @@ def weekly_daily_average(
     Returns
     -------
     :return: Dataframe with weekly average column calculate over time (Tare date).
-    :rtype: pd.DataFrame.
+    :rtype: pd.DataFrame
 
     """
 
@@ -279,7 +279,7 @@ def dataframe_fillna(
     Returns
     -------
     :return: Dataframe with NaN replaced.
-    :rtype: pd.DataFrame.
+    :rtype: pd.DataFrame
 
     """
 
@@ -310,7 +310,7 @@ def dataframe_replace(
     Returns
     -------
     :return: Dataframe with given value replaced.
-    :rtype: pd.DataFrame.
+    :rtype: pd.DataFrame
 
     """
 
@@ -339,7 +339,7 @@ def date_transformation(
     Returns
     -------
     :return: Dataframe with given value replaced.
-    :rtype: pd.DataFrame.
+    :rtype: pd.DataFrame
 
     """
 
@@ -368,7 +368,7 @@ def get_datetime_attributes(
     Returns
     -------
     :return: Dataframe with given value replaced.
-    :rtype: pd.DataFrame.
+    :rtype: pd.DataFrame
 
     """
 
@@ -398,7 +398,7 @@ def generate_data_profiling_report(
 
     Returns
     -------
-    :return: None.
+    :return: None
 
     """
 

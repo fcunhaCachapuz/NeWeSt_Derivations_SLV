@@ -21,7 +21,7 @@ def save_dataframe_to_csv(
 
     Returns
     -------
-    :return: None.
+    :return: None
 
     """
 
@@ -44,7 +44,7 @@ def number_input_validation(
     Returns
     -------
     :return: Number introduced by user.
-    :rtype: Int.
+    :rtype: int
 
     """
 
@@ -74,7 +74,7 @@ def show_menu(
     Returns
     -------
     :return: Number introduced by user.
-    :rtype: Int.
+    :rtype: int
 
     """
 

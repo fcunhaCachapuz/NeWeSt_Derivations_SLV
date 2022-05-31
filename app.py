@@ -31,7 +31,7 @@ def data_preparation(
     Returns
     -------
     :return: Dataframe transformed.
-    :rtype: pd.DataFrame.
+    :rtype: pd.DataFrame
 
     """
 
@@ -103,7 +103,7 @@ def feature_engineering(
     Returns
     -------
     :return: The processed DataFrame.
-    :rtype: pd.DataFrame.
+    :rtype: pd.DataFrame
 
     """
 
@@ -170,7 +170,7 @@ def vif_calculation(
     Returns
     -------
     :return: VIF Dataframe with the name of each features and the corresponding VIF.
-    :rtype: pd.DataFrame.
+    :rtype: pd.DataFrame
 
     """
 
@@ -200,7 +200,7 @@ def modeling(
     Returns
     -------
     :return:  Lists of AUC for each tested models regarding each Rolling Window (RW) iterations.
-    :rtype: pd.DataFrame.
+    :rtype: pd.DataFrame
 
     """
 

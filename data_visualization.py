@@ -38,7 +38,7 @@ def plot_roc_curve(
 
     Returns
     -------
-    :return: None.
+    :return: None
 
     """
 
@@ -78,7 +78,7 @@ def roc_curve_all(
 
     Returns
     -------
-    :return: None.
+    :return: None
 
     """
 
@@ -144,7 +144,7 @@ def plot_confusion_matrix(
 
     Returns
     -------
-    :return: None.
+    :return: None
 
     """
 

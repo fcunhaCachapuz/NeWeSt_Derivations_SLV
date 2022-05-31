@@ -374,9 +374,6 @@ singledispatch @ file:///tmp/build/80754af9/singledispatch_1629321204894/work
 sip==4.19.13
 six==1.16.0
 slicer==0.0.7
-# Editable Git install with no remote (slim==0.1)
--e c:\users\francisco.cunha\realtimeclassificationimages\realtimeautomaticnumberplaterecognition\tensorflow\models\research\slim
-smmap==5.0.0
 sniffio @ file:///C:/ci/sniffio_1614030707456/work
 snowballstemmer @ file:///tmp/build/80754af9/snowballstemmer_1637937080595/work
 sortedcollections @ file:///tmp/build/80754af9/sortedcollections_1611172717284/work
